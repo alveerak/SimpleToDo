@@ -28,8 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 ![alt tag](./GIFSimpleToDo.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).  
-![alt tag](./GIFSimpleToDo.gif)
+GIF created with [LiceCap](http://www.cockos.com/licecap/). 
 
 ## Notes
 
